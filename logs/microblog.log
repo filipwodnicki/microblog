@@ -84,3 +84,6 @@ Traceback (most recent call last):
   File "/Users/Filip/code/python/miniconda3/envs/flaskonda/lib/python3.6/site-packages/werkzeug/routing.py", line 1776, in build
     raise BuildError(endpoint, values, method, self)
 werkzeug.routing.BuildError: Could not build url for endpoint 'reset_password' with values ['token']. Did you mean 'auth.reset_password' instead?
+2018-08-10 23:56:19,191 INFO: Microblog startup [in /Users/Filip/code/python/microblog/app/__init__.py:77]
+2018-08-10 23:58:18,016 INFO: Microblog startup [in /Users/Filip/code/python/microblog/app/__init__.py:77]
+2018-08-11 14:59:54,009 INFO: Microblog startup [in /Users/Filip/code/python/microblog/app/__init__.py:77]
